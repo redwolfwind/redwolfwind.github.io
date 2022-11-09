@@ -1,0 +1,78 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		59286C80291B4A92008C09BB /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		59286C81291B4AD3008C09BB /* index.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = index.css; sourceTree = "<group>"; };
+		59286C82291B4ADF008C09BB /* index.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = index.js; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		59286C79291B4A74008C09BB = {
+			isa = PBXGroup;
+			children = (
+				59286C82291B4ADF008C09BB /* index.js */,
+				59286C81291B4AD3008C09BB /* index.css */,
+				59286C80291B4A92008C09BB /* index.html */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		59286C7A291B4A74008C09BB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1410;
+			};
+			buildConfigurationList = 59286C7D291B4A74008C09BB /* Build configuration list for PBXProject "redwolfwind.github.io" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 59286C79291B4A74008C09BB;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		59286C7E291B4A74008C09BB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		59286C7F291B4A74008C09BB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		59286C7D291B4A74008C09BB /* Build configuration list for PBXProject "redwolfwind.github.io" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				59286C7E291B4A74008C09BB /* Debug */,
+				59286C7F291B4A74008C09BB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 59286C7A291B4A74008C09BB /* Project object */;
+}
