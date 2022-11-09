@@ -10,6 +10,7 @@
 		59286C80291B4A92008C09BB /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		59286C81291B4AD3008C09BB /* index.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = index.css; sourceTree = "<group>"; };
 		59286C82291B4ADF008C09BB /* index.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = index.js; sourceTree = "<group>"; };
+		59286C83291B50C9008C09BB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -19,6 +20,7 @@
 				59286C82291B4ADF008C09BB /* index.js */,
 				59286C81291B4AD3008C09BB /* index.css */,
 				59286C80291B4A92008C09BB /* index.html */,
+				59286C83291B50C9008C09BB /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
